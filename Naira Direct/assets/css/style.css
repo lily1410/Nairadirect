@@ -1,0 +1,204 @@
+@media only screen and (max-width: 768px){
+    body{
+        overflow: hidden !important;
+    }
+    .neewimh {
+        width: 100px !important;
+    }
+    .navbar-nav{
+        margin-left: 0 !important;
+        grid-gap: 0 !important;
+        } 
+    .navbar{
+        width: 500px !important;
+    }  
+    .bottle p{
+      margin-bottom: 20% !important;
+    }
+    .con1{
+        height: 20px !important;
+    }
+    .nav-item{
+        width: 20px !important;
+    }
+    
+.lilpp img{
+    display: none !important;
+}
+    #muna{
+      width: 90% !important;
+      overflow: hidden !important;
+      font-size: 5% !important;
+
+}
+.container1{
+    height: 50% !important;
+    width: 100% !important;
+}
+.buy2{
+      height: 50px !important;
+      width: 60% !important;
+      text-align: center !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+}
+    .gtyg {
+        padding-left: 2vh !important;
+    }
+    .nav-item{
+        font-size: 20px !important;
+       font-weight: 400 !important;
+    }
+    .btn{
+        font-size: 15px !important;
+     }
+     .row p{
+        margin-top: 5%;
+        font-size: 30px;
+        font-weight: 500;
+    }
+     
+    .bole{
+        width: 110% !important;
+        height: 10% !important;
+        font-size: 10px !important;
+    }
+    .card-body{
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .cake {
+        padding: 6vh 2vh !important;
+    }
+
+    #nebg, #debg {
+        width: 100px !important;
+    }
+
+    .mabel {
+        width: 170px !important;
+    }
+    .mable {
+        width: 100px !important;
+    }
+
+    .opinion img {
+        /* width: 100% !important; */
+        display: none !important;
+    }
+
+    .opinions {
+        display: block !important;
+        width: 100% !important;
+    }
+
+    .opinions img {
+        width: 100% !important;
+    }
+    
+    .lil2 img{
+       max-width: 100% !important;
+       display: block !important;
+    }
+    .container4{
+        width: 110% !important;
+        height: 100px !important;
+        overflow: hidden !important;
+        background-color: green !important;
+    }
+    
+}
+
+body{
+    /* background-color: rgb(236, 109, 109) !important; */
+}
+
+.navbar-nav{
+    margin-left: 2rem;
+    grid-gap: 1rem;
+}
+.nav-item{
+    font-size: 15px;
+   font-weight: 400;
+}
+.btn{
+   font-size: 15px;
+}
+.row{
+   line-height: 2;
+}
+.row h1{
+    color: darkblue;
+    font-size: 30px;
+}
+.row p{
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: 500;
+}
+.col-12 .mt-4:hover{
+   color: red;
+}
+.lil span:hover{
+   color: red;
+}
+.buy{
+    background-color: rgb(88, 196, 88);
+    border-radius: 4px;
+    /* margin-bottom: 50%; */
+   
+}
+.buy p{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 3px;
+}
+ .row{
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+}
+.icon1{
+    align-items: center;
+    justify-content: center;
+}
+.bdy span{
+    background-color: rgb(8, 8, 78);
+    border-radius: 50px;
+    height: 40px;
+    padding: 10px;
+    color: whitesmoke;
+    font-weight: 500;
+    background-size: cover;
+}
+.container .container4{
+    background-image: url(/assets/img/th.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
+.container4 {
+    background-color: rgb(51, 119, 192);
+}
+ .row .test h3{
+    align-items: center;
+    justify-content: center;
+}
+.bdy1{
+    display: flex;
+    gap: 1rem;
+}
+/* .container5{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} */
+.frequent{
+    align-items: center;
+    justify-content: center;
+}
+.container5 .msgbdy3{
+    /* padding: 50px; */
+}
